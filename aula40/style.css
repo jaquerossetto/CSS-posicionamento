@@ -1,0 +1,47 @@
+body {
+    background-color: lightblue;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+
+.cartao {
+margin-left: auto;
+margin-right: auto;
+}
+
+.cartao__imagem {
+    border-radius: 30px;
+    max-width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.cartao__cabecalho {
+    padding: 20px;
+}
+
+.titulo{
+    text-align: center;
+}
+
+p {
+    text-align: center;
+}
+
+.botao-primario{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    align-items: center;
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 15px;
+    padding: 5px 55px 5px 55px;
+
+}
+
+
+lais baltar
+lany
